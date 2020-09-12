@@ -106,7 +106,7 @@ int main()
 		});
 
 	auto door5_open = false, door5_locked = true;
-	auto door5 = Object::create("Images/RoomEscape/문-왼쪽-닫힘.png", scene3, 320, 300);
+	auto door5 = Object::create("Images/RoomEscape/문-왼쪽-닫힘.png", scene3, 320, 300, false);
 	door5->setOnMouseCallback([&](ObjectPtr Object, int x, int y, MouseAction action)->bool {
 		if (door5_locked) {
 			showMessage("문이 열리질 않는다...");
