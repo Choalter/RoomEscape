@@ -12,4 +12,4 @@
 
 ## 라이센스
 
-이 프로젝트는 MIT 허가서를 사용합니다 - [LICENSE.md](LICENSE.md) 파일에서 자세히 알아보세요.
+이 프로젝트는 MIT 허가서를 사용합니다 - [LICENSE.md](https://github.com/Choalter/RoomEscape/blob/master/LICENSE) 파일에서 자세히 알아보세요.
