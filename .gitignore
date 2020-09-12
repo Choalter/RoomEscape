@@ -8,6 +8,7 @@
 *.slo
 *.lo
 *.o
+*.sln
 
 # Compiled Dynamic libraries
 *.so
